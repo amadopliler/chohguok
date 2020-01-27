@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iezeicaith.kosmotique.org/sitemap.xml
